@@ -1,4 +1,4 @@
-# Sample website template for study purpose (Multiple languages used)
+# Sample website template for study purpose
 
 ---
 ## Description
